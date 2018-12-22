@@ -1,7 +1,7 @@
 # Coursera Assignments
 This repository is aimed to help Coursera learners who have difficulties in their learning process.  
 The quiz and programming homework is belong to coursera.Please **Do Not** use them for any other purposes.  
-Please feel free to contact me if you have any problem,my email is wcshen1994@163.com.
+Please feel free to contact me if you have any problem,my email:
 
 * [Bayesian Statistics From Concept to Data Analysis](./Bayesian_Statistics_From_Concept_to_Data_Analysis_UC_Santa_Cruz)
 
